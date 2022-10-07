@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--untuk mendeklarasikan nama-nama yang awalan hurufnya A-Z-->
+<resources>
+    <string-array name="words">
+        <item>anjing</item>
+        <item>ayam</item>
+        <item>ardvark</item>
+        <item>anjing Laut</item>
+        <item>angsa</item>
+        <item>antelop</item>
+        <item>pinguin</item>
+        <item>bebek</item>
+        <item>beruang</item>
+        <item>banteng</item>
+        <item>babi</item>
+        <item>belut</item>
+        <item>badak</item>
+        <item>cicak</item>
+        <item>cheetah</item>
+        <item>cakalang</item>
+        <item>cupang</item>
+        <item>capung</item>
+        <item>cumi-cumi</item>
+        <item>cendrawasi</item>
+        <item>domba</item>
+        <item>dinosaurus</item>
+        <item>delman</item>
+        <item>dugong</item>
+        <item>dara</item>
+        <item>derik</item>
+        <item>Dokun</item>
+
+    </string-array>
+</resources>
